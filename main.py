@@ -1,2 +1,2 @@
-print('hello world')
-print('vot i vse!')
+x = 5
+print(x)
