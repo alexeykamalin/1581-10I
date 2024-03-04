@@ -1,2 +1,2 @@
 print('hello world')
-print('syka lyk')
+print('vot i vse!')
