@@ -1,1 +1,1 @@
-trali vali
+print('hello all')
